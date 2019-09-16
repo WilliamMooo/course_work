@@ -1,0 +1,14 @@
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\bin\Debug\netcoreapp2.2\win-x64\hostpolicy.dll
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\bin\Debug\netcoreapp2.2\win-x64\hostfxr.dll
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\bin\Debug\netcoreapp2.2\win-x64\dealSentence.exe
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\bin\Debug\netcoreapp2.2\win-x64\dealSentence.deps.json
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\bin\Debug\netcoreapp2.2\win-x64\dealSentence.runtimeconfig.json
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\bin\Debug\netcoreapp2.2\win-x64\dealSentence.runtimeconfig.dev.json
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\bin\Debug\netcoreapp2.2\win-x64\dealSentence.dll
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\bin\Debug\netcoreapp2.2\win-x64\dealSentence.pdb
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\obj\Debug\netcoreapp2.2\win-x64\dealSentence.csprojAssemblyReference.cache
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\obj\Debug\netcoreapp2.2\win-x64\dealSentence.csproj.CoreCompileInputs.cache
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\obj\Debug\netcoreapp2.2\win-x64\dealSentence.AssemblyInfoInputs.cache
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\obj\Debug\netcoreapp2.2\win-x64\dealSentence.AssemblyInfo.cs
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\obj\Debug\netcoreapp2.2\win-x64\dealSentence.dll
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\dealSentence\obj\Debug\netcoreapp2.2\win-x64\dealSentence.pdb
