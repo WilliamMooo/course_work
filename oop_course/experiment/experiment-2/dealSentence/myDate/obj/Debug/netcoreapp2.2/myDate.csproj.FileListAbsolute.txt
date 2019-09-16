@@ -1,0 +1,11 @@
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\myDate\bin\Debug\netcoreapp2.2\myDate.deps.json
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\myDate\bin\Debug\netcoreapp2.2\myDate.runtimeconfig.json
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\myDate\bin\Debug\netcoreapp2.2\myDate.runtimeconfig.dev.json
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\myDate\bin\Debug\netcoreapp2.2\myDate.dll
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\myDate\bin\Debug\netcoreapp2.2\myDate.pdb
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\myDate\obj\Debug\netcoreapp2.2\myDate.csprojAssemblyReference.cache
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\myDate\obj\Debug\netcoreapp2.2\myDate.csproj.CoreCompileInputs.cache
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\myDate\obj\Debug\netcoreapp2.2\myDate.AssemblyInfoInputs.cache
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\myDate\obj\Debug\netcoreapp2.2\myDate.AssemblyInfo.cs
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\myDate\obj\Debug\netcoreapp2.2\myDate.dll
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-2\myDate\obj\Debug\netcoreapp2.2\myDate.pdb
