@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/96101/Desktop/codes/course_work/data_structure/homework-1/src/exp2-1.cpp
+iostream
+-
+
+C:/Users/96101/Desktop/codes/course_work/data_structure/homework-1/src/exp2-2.cpp
+iostream
+-
+

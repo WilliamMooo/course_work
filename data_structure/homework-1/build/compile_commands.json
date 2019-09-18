@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/96101/Desktop/codes/course_work/data_structure/homework-1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/homework-1.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\homework-1.dir\\src\\exp2-1.cpp.obj -c C:\\Users\\96101\\Desktop\\codes\\course_work\\data_structure\\homework-1\\src\\exp2-1.cpp",
+  "file": "C:/Users/96101/Desktop/codes/course_work/data_structure/homework-1/src/exp2-1.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/codes/course_work/data_structure/homework-1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/homework-1.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\homework-1.dir\\src\\exp2-2.cpp.obj -c C:\\Users\\96101\\Desktop\\codes\\course_work\\data_structure\\homework-1\\src\\exp2-2.cpp",
+  "file": "C:/Users/96101/Desktop/codes/course_work/data_structure/homework-1/src/exp2-2.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/codes/course_work/data_structure/homework-1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/homework-1.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\homework-1.dir\\src\\main.cpp.obj -c C:\\Users\\96101\\Desktop\\codes\\course_work\\data_structure\\homework-1\\src\\main.cpp",
+  "file": "C:/Users/96101/Desktop/codes/course_work/data_structure/homework-1/src/main.cpp"
+}
+]
