@@ -1,3 +1,8 @@
+// 学号：201730940431
+// 班级：18信计
+// 姓名：莫一凡
+// 实验题1：实现顺序表的各种基本运算的算法
+// 代码链接：https://github.com/WilliamMooo/course_work/blob/master/data_structure/homework-1/src/exp2-1.cpp
 #include <iostream>
 
 using namespace std;
@@ -63,15 +68,14 @@ bool listInsert(SqList* &L, int i, ElemType e) {
 }
 
 //删除数据元素
-bool listDel(SqList* &L, int i, ElemType &e) {
+bool listDel(SqList* &L, int i) {
     if(i<1 || i>L->length) return false;
-    e = L->data[i-1];
     for (int j = i-1; j < L->length-1; j++) L->data[j] = L->data[j+1];
     L->length--;
     return true;
 }
 
-int mainT() {
+int main() {
     SqList *L;
     //(1)初始化顺序表L
     initList(L);
@@ -108,9 +112,7 @@ int mainT() {
     display(L);
 
     //(10)删除顺序表L的第3个元素
-    char delEle;
-    listDel(L, 3, delEle);
-    cout << "the deleted emement is: " << delEle << endl;
+    listDel(L, 3);
 
     //(11)输出顺序表
     display(L);

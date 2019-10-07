@@ -1,3 +1,8 @@
+// 学号：201730940431
+// 班级：18信计
+// 姓名：莫一凡
+// 实验题2：实现单链表的各种基本运算的算法
+// 代码链接：https://github.com/WilliamMooo/course_work/blob/master/data_structure/homework-1/src/exp2-2.cpp
 #include <iostream>
 
 using namespace std;
@@ -134,7 +139,7 @@ bool delEle(linkNode* &h, int i) {
     }
 }
 
-int main() {
+int mainT() {
     // (1)初始化单链表h
     linkNode *h;
     initListNode(h);

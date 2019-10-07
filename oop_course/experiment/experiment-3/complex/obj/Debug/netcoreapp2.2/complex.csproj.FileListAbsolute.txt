@@ -1,0 +1,11 @@
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\complex\obj\Debug\netcoreapp2.2\complex.csprojAssemblyReference.cache
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\complex\obj\Debug\netcoreapp2.2\complex.csproj.CoreCompileInputs.cache
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\complex\obj\Debug\netcoreapp2.2\complex.AssemblyInfoInputs.cache
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\complex\obj\Debug\netcoreapp2.2\complex.AssemblyInfo.cs
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\complex\bin\Debug\netcoreapp2.2\complex.deps.json
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\complex\bin\Debug\netcoreapp2.2\complex.runtimeconfig.json
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\complex\bin\Debug\netcoreapp2.2\complex.runtimeconfig.dev.json
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\complex\bin\Debug\netcoreapp2.2\complex.dll
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\complex\bin\Debug\netcoreapp2.2\complex.pdb
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\complex\obj\Debug\netcoreapp2.2\complex.dll
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\complex\obj\Debug\netcoreapp2.2\complex.pdb

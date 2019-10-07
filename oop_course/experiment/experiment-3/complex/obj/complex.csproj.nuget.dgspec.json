@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\96101\\Desktop\\codes\\course_work\\oop_course\\experiment\\experiment-3\\complex\\complex.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\96101\\Desktop\\codes\\course_work\\oop_course\\experiment\\experiment-3\\complex\\complex.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\96101\\Desktop\\codes\\course_work\\oop_course\\experiment\\experiment-3\\complex\\complex.csproj",
+        "projectName": "complex",
+        "projectPath": "C:\\Users\\96101\\Desktop\\codes\\course_work\\oop_course\\experiment\\experiment-3\\complex\\complex.csproj",
+        "packagesPath": "C:\\Users\\96101\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\96101\\Desktop\\codes\\course_work\\oop_course\\experiment\\experiment-3\\complex\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\96101\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

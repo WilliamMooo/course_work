@@ -1,0 +1,11 @@
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\Animal_Character\bin\Debug\netcoreapp2.2\Animal_Character.deps.json
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\Animal_Character\bin\Debug\netcoreapp2.2\Animal_Character.runtimeconfig.json
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\Animal_Character\bin\Debug\netcoreapp2.2\Animal_Character.runtimeconfig.dev.json
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\Animal_Character\bin\Debug\netcoreapp2.2\Animal_Character.dll
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\Animal_Character\bin\Debug\netcoreapp2.2\Animal_Character.pdb
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\Animal_Character\obj\Debug\netcoreapp2.2\Animal_Character.csprojAssemblyReference.cache
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\Animal_Character\obj\Debug\netcoreapp2.2\Animal_Character.csproj.CoreCompileInputs.cache
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\Animal_Character\obj\Debug\netcoreapp2.2\Animal_Character.AssemblyInfoInputs.cache
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\Animal_Character\obj\Debug\netcoreapp2.2\Animal_Character.AssemblyInfo.cs
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\Animal_Character\obj\Debug\netcoreapp2.2\Animal_Character.dll
+C:\Users\96101\Desktop\codes\course_work\oop_course\experiment\experiment-3\Animal_Character\obj\Debug\netcoreapp2.2\Animal_Character.pdb

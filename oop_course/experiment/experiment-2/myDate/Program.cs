@@ -54,7 +54,9 @@ namespace myDate
         {
             MyDate oneDate = new MyDate();
             oneDate.display();
-            oneDate.setData(2,29,1999);
+            oneDate.setData(2, 29, 1999);
+            oneDate.setData(13, 12, 1999);
+            oneDate.setData(1, 32, 1999);
             oneDate.setData(2,28,1999); 
             oneDate.display();
             Console.WriteLine(oneDate);

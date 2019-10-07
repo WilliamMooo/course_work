@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/96101/Desktop/codes/course_work/data_structure/homework-2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/homework-1.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\homework-1.dir\\src\\main.cpp.obj -c C:\\Users\\96101\\Desktop\\codes\\course_work\\data_structure\\homework-2\\src\\main.cpp",
+  "file": "C:/Users/96101/Desktop/codes/course_work/data_structure/homework-2/src/main.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/codes/course_work/data_structure/homework-2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/homework-1.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\homework-1.dir\\src\\sqStack.cpp.obj -c C:\\Users\\96101\\Desktop\\codes\\course_work\\data_structure\\homework-2\\src\\sqStack.cpp",
+  "file": "C:/Users/96101/Desktop/codes/course_work/data_structure/homework-2/src/sqStack.cpp"
+}
+]
